@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DeepThought</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explore_fragment">Explore Fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="what_s_your_favourite_product">What\'s Your Favourite product?</string>
+    <string name="type_by">Type By</string>
+    <string name="deepthought">DeepThought</string>
+    <string name="name">Name</string>
+    <string name="explore">Explore</string>
+    <string name="pre_requisites_description">Pre-requisites Description</string>
+    <string name="pre_requisites">Pre-requisites</string>
+    <string name="learning_outcome_description">Learning Outcome Description</string>
+    <string name="learning_outcome">Learning Outcome</string>
+    <string name="title_activity_task">TaskActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="social_scorecard">Social Scorecard</string>
+    <string name="since_i_started_this_project_as_based_on_the_first_task_which_was_given_i_had_started_with_the_designing_according_to_that_therefore_this_particular_app_may_contain_a_mix_of_design_and_logic_though_not_complete_the_second_task_page_which_was_designed_can_be_checked_if_the_intent_filter_in_manifest_is_changed">Since I started this Project as based on the first Task which was given,I had started with the designing according to that Therefore, this particular App may contain a mix of Design and logic(Though not Complete.The second task Page which was designed can be checked if the intent filter in Manifest is Changed</string>
+</resources>
